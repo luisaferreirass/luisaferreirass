@@ -16,7 +16,8 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leandroaa01&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="Leandro Andrade github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisaferreirass&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117&hide_progress=true" />
  
-<hr/> <div align="center"> <h2>🐍 My Contributions 🐍</h2> <br> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luisaferreirass/salesp07/output/github-contribution-grid-snake.svg" />
+<hr/> <div align="center"> <h2>🐍 My Contributions 🐍</h2> <br> <img alt="snake eating my contributions" 
+![Snake animation](https://github.com/luisaferreirass/SEU_REPOSITORIO/blob/output/github-snake.svg)
 <img align="right" src="https://i.picasion.com/pic92/d33eae27397fef422c7d3005f7a9fa1d.gif" height="140" alt="https://picasion.com/" /></a> 
 </div>
 <p align="center">
