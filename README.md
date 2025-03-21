@@ -2,11 +2,12 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luisa+Ferreira+😊;I'm+18+years+old;I'm+from+Brasil;I+study+computer+science;Welcome!+:%29)](https://git.io/typing-svg)
 
-🧑🏿‍💻 Estudante de Ciência da Computação na UFRN.
 
-💼 Desenvolvimento back-end 
+👩🏽‍💻 Graduanda de Ciência da Computação na UFRN
 
-🔭  Meu foco principal está no design, implementação e otimização de bancos de dados SQL e NoSQL, bem como na criação e integração de APIs RESTful com métodos CRUD e arquitetura MVC.
+💻 Desenvolvimento back-end 
+
+🌐 Meu foco principal está no design, implementação e otimização de bancos de dados SQL e NoSQL, bem como na criação e integração de APIs RESTful com métodos CRUD e arquitetura MVC
 
 
 <div align="center"> 
@@ -16,9 +17,12 @@
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiisa_ferreiraa/)
 
 </div>
+
+<h2 align="center">⚡ Stats ⚡</h2> <br> 
+
 <div align="center">  
-  <img width=350  align="center"src="https://github-readme-streak-stats-salesp07.vercel.app/?user=luisaferreirass&count_private=true&theme=react&border_radius=10&size_weight=0.5&ring=9370DB&stroke=9370DB&fire=9370DB&sideNums=9370DB&currStreakLabel=9370DB&sideLabels=9370DB&" alt="streak stats"/> 
- <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luisaferreirass&hide=HTML&langs_count=8&title_color=9370DB&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
+  <img width=350  align="center"src="https://streak-stats.demolab.com?user=luisaferreirass&theme=dark&border_radius=10&locale=pt_BR)](https://git.io/streak-stats)"/> 
+ <img width=350 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luisaferreirass&hide=HTML&langs_count=8&title_color=FFFFFF&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
 
 ## 🚀 Contribuições 
 <div align="center"> ![Snake animation](https://github.com/luisaferreirass/.github/workflows/main.yml/blob/output/github-snake.svg)
