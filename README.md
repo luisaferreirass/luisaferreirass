@@ -33,7 +33,7 @@
 <h2 align="center">🚀 Contribuições 🚀</h2> <br> 
 <div align="center"> ![Snake animation](https://github.com/luisaferreirass/.github/workflows/main.yml/blob/output/github-snake.svg)
 
-<br/> <br/</div>
+<br/> </div>
 
 <h2 align="center">⚒️ Linguagens e frameworks ⚒️ </h2> 
 
