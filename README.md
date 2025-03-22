@@ -58,7 +58,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
 
 🔧 **Ferramentas & DevOps:**  
-<img src="https://skillicons.dev/icons?i=docker,git,rabbitmq,vscode,postman,springboot" />
+<img src="https://skillicons.dev/icons?i=docker,git,rabbitmq,vscode,postman" />
 
 </div>
  
