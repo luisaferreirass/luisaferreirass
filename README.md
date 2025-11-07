@@ -6,11 +6,11 @@
 
 👩🏽‍💻 Graduanda de Ciência da Computação na UFRN
 
-📝 Atualmente aprendendo Java e Springboot
+📝 Atualmente aprendendo Análise de dados
 
-💻 Desenvolvimento back-end 
+💻 Análises de dados
 
-🌐 Meu foco principal está no design, implementação e otimização de bancos de dados SQL e NoSQL, bem como na criação e integração de APIs RESTful com métodos CRUD e arquitetura MVC
+🌐 Meu foco principal está na análise de dados, incluindo o tratamento, visualização e interpretação de informações, além da integração de dados entre sistemas e da criação de pipelines eficientes para apoiar processos de tomada de decisão.
 
 
 </div>
