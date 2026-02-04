@@ -6,11 +6,6 @@
 
 👩🏽‍💻 Graduanda de Ciência da Computação na UFRN
 
-📝 Atualmente aprendendo Análise de dados
-
-💻 Análises de dados
-
-🌐 Meu foco principal está na análise de dados, incluindo o tratamento, visualização e interpretação de informações, além da integração de dados entre sistemas e da criação de pipelines eficientes para apoiar processos de tomada de decisão.
 
 
 </div>
