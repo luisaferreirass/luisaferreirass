@@ -57,31 +57,3 @@
 
 </div>
  
-
-<h2 align="center"> 💻 Últimos projetos 💻 </h2> <br> 
-
-
-<p align="center">
-  <a href="https://github.com/luisaferreirass/gestao-de-vagas">
-    <img src="https://img.shields.io/badge/-Gestão_de_Vagas-blue?style=for-the-badge" alt="Gestão de Vagas">
-  </a>
-  <br>
-  📌 Sistema para gerenciamento de vagas de emprego, utilizando tecnologias modernas para otimizar recrutamento.
-</p>
-
-<p align="center">
-  <a href="https://github.com/luisaferreirass/message_queue_rabbitmq">
-    <img src="https://img.shields.io/badge/-Sistema_de_Mensagens_com_RabbitMQ-orange?style=for-the-badge" alt="RabbitMQ">
-  </a>
-  <br>
-  📬 Implementação de fila de mensagens assíncronas com RabbitMQ para comunicação entre serviços.
-</p>
-
-<p align="center">
-  <a href="https://github.com/luisaferreirass/SecurityActivity">
-    <img src="https://img.shields.io/badge/-API_de_Pedidos_com_JWT-green?style=for-the-badge" alt="API com JWT">
-  </a>
-  <br>
-  🔐 API segura para pedidos, implementando autenticação JWT e melhores práticas de segurança.
-</p>
-
