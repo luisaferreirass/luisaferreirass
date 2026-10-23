@@ -1,6 +1,6 @@
 ## Luisa Ferreira
 
-**Engenheira de Dados Júnior** · Ciência da Computação @ UFRN
+**Engenheira de Dados Júnior** · Ciência da Computação @ UFRN<br>
 Construo pipelines de dados: da ingestão via APIs à camada analítica.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luisaferreirass)
@@ -16,20 +16,40 @@ Construo pipelines de dados: da ingestão via APIs à camada analítica.
 
 ### Stack
 
-| Área | Ferramentas |
-|---|---|
-| **Linguagens** | Python, SQL |
-| **Ingestão & Orquestração** | APIs REST/GraphQL, Web Scraping, Airflow, FastAPI |
-| **Armazenamento & Processamento** | PostgreSQL, DuckDB, MySQL, MongoDB, Redis, Parquet |
-| **Transformação & Análise** | Pandas, NumPy |
-| **BI & Visualização** | Grafana, Power BI (DAX) |
-| **Infra & Versionamento** | Docker, Git, GitHub, GitLab |
+**Linguagens & Ingestão**<br>
+<img src="https://skillicons.dev/icons?i=py,fastapi,graphql&perline=10" height="40"/>
 
-### Projetos em destaque
+**Orquestração & Processamento**<br>
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge&logo=apacheparquet&logoColor=white"/>
+
+**Bancos de dados**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" height="40"/>
+
+**BI, Infra & Versionamento**<br>
+<img src="https://skillicons.dev/icons?i=grafana,docker,git,github,gitlab" height="40"/>
+
+### Projeto em destaque: Spotify Analytics Pipeline
+
+```mermaid
+flowchart LR
+    A[Spotify API] --> B[Coletores Python]
+    B --> C[(PostgreSQL)]
+    C --> D[Views SQL]
+    D --> E[FastAPI]
+    E --> F[Dashboard]
+    G{{Airflow}} -.orquestra.-> B
+```
+
+[Ver repositório →](https://github.com/luisaferreirass/spotify_analytics_pipeline)
+
+### Outros projetos
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| **[spotify_analytics_pipeline](https://github.com/luisaferreirass/spotify_analytics_pipeline)** | Pipeline end-to-end com dados pessoais do Spotify: coletores, views SQL, DAGs, API e dashboard de comportamento musical | Python, PostgreSQL, Airflow, FastAPI |
 | **[flight_search_app](https://github.com/luisaferreirass/flight_search_app)** | Ingestão automatizada da API Amadeus com persistência em banco | Python, API REST, SQL |
 | **[data_clean](https://github.com/luisaferreirass/data_clean)** | Limpeza e tratamento de dados: ausentes, duplicatas, winsorização | Python, Pandas |
 | **[HomeMatch](https://github.com/DevlTz/HomeMatch)** | Plataforma imobiliária com busca semântica (pgvector) e dados do Censo IBGE 2022 | Django, PostgreSQL, Celery, Redis |
