@@ -11,7 +11,6 @@ Construo pipelines de dados: da ingestão via APIs à camada analítica.
 ### Sobre mim
 
 - Foco em **Engenharia de Dados**: ingestão, modelagem, orquestração e qualidade de dados
-- Estudando agora: **Airflow**, **SQL avançado** e modelagem dimensional (star schema, SCD2)
 - Português (nativo) · Inglês (avançado) · Francês (intermediário)
 
 ### Stack
